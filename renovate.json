@@ -6,6 +6,6 @@
   "onboardingRebaseCheckbox": false,
   "ignorePaths": [
     "image1/Dockerfile",
-    "image2/Dockerfile"
+    "image2foo/Dockerfile"
   ]
 }
